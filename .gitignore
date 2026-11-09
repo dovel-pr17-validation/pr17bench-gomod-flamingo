@@ -1,0 +1,15 @@
+.DS_Store
+.cache
+.idea
+.temp
+coverage
+coverage.txt
+coverage.xml
+context_local.yml
+
+docs/docs/3. Core Packages
+docs/site
+
+# pact
+**/logs/pact.log
+**/pacts/*.json
